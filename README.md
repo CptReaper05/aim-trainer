@@ -18,4 +18,5 @@ A fast-paced aim training game built using Python & Pygame.
 ## How to Run 🔧
 **Step 1: Install Pygame**  
 pip install pygame
+
 **Step 2: Run the Game**  
